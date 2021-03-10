@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">PDM_20221_I_L2_LABORATORIO2</string>
+
+    <string name="registrar_alumnos">Registrar Alumnos</string>
+    <string name="registrar_clase">Registrar Clase</string>
+    <string name="registrar_matricula">Registrar Matricula</string>
+
+    <string name="ingresar_notas">Ingresar Notas</string>
+
+    <string name="correo_matricula">Enviar Matricula</string>
+    <string name="correo_notas">Enviar Notas</string>
+    <string name="numero_de_cuenta">Numero de Cuenta</string>
+    <string name="nombre_del_alumno">Nombre del Alumno</string>
+    <string name="correo_del_alumno">Correo del Alumno</string>
+    <string name="guardar">Guardar</string>
+    <string name="seccion">Seccion</string>
+    <string name="hora">Hora</string>
+    <string name="name">Name</string>
+    <string name="edificio_piso">Edificio/Piso</string>
+    <string name="aula">Aula</string>
+    <string name="nombre_de_la_clase">Nombre de la Clase</string>
+    <string name="codigo">Codigo</string>
+
 </resources>
